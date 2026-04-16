@@ -1,0 +1,18 @@
+INFO 2026-04-11T02:01:19.280Z [analyzer] Assuming PLAIN_OR_FAST format with one line per frame or one line per message
+ERROR 2026-04-11T02:01:19.311Z [actisense-serial] Ignore short command len = 0
+ERROR 2026-04-11T02:02:52.102Z [analyzer] Field Value: cannot derive variable length for PGN 130817 field # 19
+ERROR 2026-04-11T02:02:52.102Z [analyzer] PGN 126208 analysis error
+ERROR 2026-04-11T02:02:58.820Z [analyzer] Unhandled string type 255 in PGN
+ERROR 2026-04-11T02:02:58.820Z [analyzer] PGN 126998 analysis error
+ERROR 2026-04-11T02:02:59.625Z [analyzer] Unhandled string type 255 in PGN
+ERROR 2026-04-11T02:02:59.625Z [analyzer] PGN 126998 analysis error
+ERROR 2026-04-11T02:03:01.398Z [analyzer] Unhandled string type 255 in PGN
+ERROR 2026-04-11T02:03:01.398Z [analyzer] PGN 126998 analysis error
+ERROR 2026-04-11T02:07:49.508Z [analyzer] Field Value: cannot derive variable length for PGN 130817 field # 19
+ERROR 2026-04-11T02:07:49.508Z [analyzer] PGN 126208 analysis error
+ERROR 2026-04-11T02:07:49.508Z [analyzer] Field Value: cannot derive variable length for PGN 130817 field # 19
+ERROR 2026-04-11T02:07:49.508Z [analyzer] PGN 126208 analysis error
+ERROR 2026-04-11T02:07:49.508Z [analyzer] Field Value: cannot derive variable length for PGN 130817 field # 19
+ERROR 2026-04-11T02:07:49.508Z [analyzer] PGN 126208 analysis error
+ERROR 2026-04-11T02:07:49.508Z [analyzer] Field Value: cannot derive variable length for PGN 130817 field # 19
+ERROR 2026-04-11T02:07:49.508Z [analyzer] PGN 126208 analysis error
